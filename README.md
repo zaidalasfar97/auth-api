@@ -1,13 +1,12 @@
 # auth-api
 
-# [heroku](https://zaid-bearer-auth.herokuapp.com/)
-# [PR](https://github.com/zaidalasfar97/bearer-auth/pull/1)
-# [Action](https://github.com/zaidalasfar97/bearer-auth/actions)
+# [heroku](https://auth-api-zaid.herokuapp.com/)
+# [PR](https://github.com/zaidalasfar97/auth-api/pull/1)
+# [Action](https://github.com/zaidalasfar97/auth-api/actions)
 
 # how to work with this repo:
 #### 1-npm init -y
-#### npm i express dotenv cors morgan mongoose bcrypt base-64
-#### npm i -D jest @code-fellows/supergoos
+#### 2-npm i express dotenv cors morgan mongoose bcrypt base-64 method-override mongoose supertest jsonwebtoken jest @code-fellows/supergoose
 
-![coverage](./img/22.png)
-![Solution](./img/112.png)
+
+![UML](./img/111.png)
